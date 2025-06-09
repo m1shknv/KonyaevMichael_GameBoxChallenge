@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed989089d2b3ea44e996a72452c04f78, type: 3}
+  m_Name: Laptop
+  m_EditorClassIdentifier: 
+  itemName: "\u041D\u043E\u0443\u0442\u0431\u0443\u043A"
+  icon: {fileID: -108207894, guid: 23d7ce158f6e936429d06d5cfcf2289d, type: 3}
+  useCustomDate: 0
+  includeOwner: 1
+  ownerName: "\u041A\u0440\u0438\u0441\u0442\u0438\u043D\u0430"
+  includeLocation: 1
+  location: "\u0414\u043E\u043C"
+  editorNote: 

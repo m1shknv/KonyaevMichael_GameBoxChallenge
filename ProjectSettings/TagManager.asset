@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Walls
+  - Water
+  - UI
+  - Furniture
+  - Constructions
+  - Player
+  - Loot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Furniture
+    uniqueID: 164440511
+    locked: 0
+  - name: Constructions
+    uniqueID: 738470387
+    locked: 0
+  - name: Player
+    uniqueID: 544792117
+    locked: 0
+  - name: Walls
+    uniqueID: 649180405
+    locked: 0
+  - name: Loot
+    uniqueID: 226223529
+    locked: 0

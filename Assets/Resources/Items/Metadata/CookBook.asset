@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed989089d2b3ea44e996a72452c04f78, type: 3}
+  m_Name: CookBook
+  m_EditorClassIdentifier: 
+  itemName: "\u041A\u043D\u0438\u0433\u0430 \u0440\u0435\u0446\u0435\u043F\u0442\u043E\u0432"
+  icon: {fileID: 111731290, guid: 23d7ce158f6e936429d06d5cfcf2289d, type: 3}
+  useCustomDate: 0
+  includeOwner: 1
+  ownerName: "\u041E\u043B\u044C\u0433\u0430"
+  includeLocation: 1
+  location: "\u0414\u043E\u043C"
+  editorNote: 
